@@ -1,0 +1,9 @@
+{
+	"name": "AzuredataFactiry1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b38e09d6-7e16-4329-abac-3cbcdf894979",
+		"tenantId": "997670f8-2add-436d-baa7-ea4758e3e934"
+	}
+}
